@@ -1,13 +1,13 @@
 
-Hi 👋, I'm Jennifer. Welcome to my profile 🤝
+<h2>Hi 👋, I'm Jennifer. Welcome to my profile 🤝</h2>
 
 
 I am a Backend Developer and Research Software Developer. 
-My skillset include knowledge of ● Java ● Spring Framework ● Spring Boot  ● Spring Security ● Hibernate ● Spring MVC ● Spring Data JPA  ● SQL ● Docker ●  Auth0 ● Prometheus ● Microservices ● JUnit/Mockito ● Node Js ● JavaScript ● Reactjs ● CSS ● HTML
+My skillset include knowledge of ● Java ● Spring Framework ● Spring Boot  ● Spring Security ● Hibernate ● Spring MVC ● Spring Data JPA  ● SQL ● Docker ●  Auth0 ●  Microservices ● JUnit/Mockito ● Node Js ● JavaScript ● Reactjs ● CSS ● HTML
 <br>
 
-- 📫 How to reach me mail: **ogbondachristian@gmail.com**
-                     LinkedIn: **https://www.linkedin.com/in/zurum-ogbonda**
+- 📫 How to reach me mail: **jenniferewuzie27@gmail.com**
+                     LinkedIn: **www.linkedin.com/in/jennifer-ewuzie-360508230**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
