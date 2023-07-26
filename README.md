@@ -6,7 +6,7 @@ I am a Backend Developer and Research Software Developer.
 My skillset include knowledge of ● Java ● Spring Framework ● Spring Boot  ● Spring Security ● Hibernate ● Spring MVC ● Spring Data JPA  ● SQL ● Docker ●  Auth0 ●  Microservices ● JUnit/Mockito ● Node Js ● JavaScript ● Reactjs ● CSS ● HTML
 <br>
 
-- 📫 How to reach me mail: **jenniferewuzie27@gmail.com**
+- 📫 How to reach me <br>mail: **jenniferewuzie27@gmail.com**
                      LinkedIn: **www.linkedin.com/in/jennifer-ewuzie-360508230**
 
 <h3 align="left">Connect with me:</h3>
